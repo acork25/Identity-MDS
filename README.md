@@ -1,3 +1,3 @@
 # Identity-MDS
-MDS analysis of social identities using forum data
-The files in this repository can be used to replicate the methodology employed in the fourth chapter of Cork (2021) (found at http://hdl.handle.net/10871/126737).
+MDS analysis of social identities using forum data.
+To use the files in this repository, first download the data saved in the data folder and then run the .pynb jupyter notebook.
